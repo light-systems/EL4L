@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# eye_listen_4_love
+International journal about signal processing in the state of the arts.
 
-You can use the [editor on GitHub](https://github.com/light-systems/eye_listen_4_love/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Generic badge](https://img.shields.io/badge/leaf_expression-ENGINE-<COLOR>.svg)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-### Markdown
+## Random Matrix Theory 4 Music
+Signal processing researcher and artist [Lumumba A. Harnett](https://graduate.ku.edu/2014-chancellors-fellows) and [Erick O. Oduniyi](https://scholar.google.com/citations?user=1ApryN8AAAAJ&hl=en) are working through various music production pieces to better understand the underlying nature of doppler phenomena.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](Working_On_Music.png)
+**Figure:** Outside recording of cars, animals, and the self in Lawrence, KS. 
 
-```markdown
-Syntax highlighted code block
+## Interfaces for Random Matrix Theory
+![](cover_1.png)
+![](digital_ex_spread.png)
+![](digital_ex_spread_template.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/light-systems/eye_listen_4_love/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
