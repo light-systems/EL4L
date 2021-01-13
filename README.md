@@ -2,6 +2,7 @@
 International journal about signal processing in the state of the arts.
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
+
 [![Generic badge](https://img.shields.io/badge/leaf_expression-ENGINE-<COLOR>.svg)](https://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
