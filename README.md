@@ -1,4 +1,4 @@
-# eye_listen_4_love
+# eye_listen
 International journal about signal processing in the state of the arts.
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
